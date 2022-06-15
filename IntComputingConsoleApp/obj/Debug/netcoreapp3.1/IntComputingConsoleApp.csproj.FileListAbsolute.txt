@@ -1,0 +1,14 @@
+C:\Users\leo_1\source\repos\IntComputingConsoleApp\IntComputingConsoleApp\bin\Debug\netcoreapp3.1\IntComputingConsoleApp.exe
+C:\Users\leo_1\source\repos\IntComputingConsoleApp\IntComputingConsoleApp\bin\Debug\netcoreapp3.1\IntComputingConsoleApp.deps.json
+C:\Users\leo_1\source\repos\IntComputingConsoleApp\IntComputingConsoleApp\bin\Debug\netcoreapp3.1\IntComputingConsoleApp.runtimeconfig.json
+C:\Users\leo_1\source\repos\IntComputingConsoleApp\IntComputingConsoleApp\bin\Debug\netcoreapp3.1\IntComputingConsoleApp.runtimeconfig.dev.json
+C:\Users\leo_1\source\repos\IntComputingConsoleApp\IntComputingConsoleApp\bin\Debug\netcoreapp3.1\IntComputingConsoleApp.dll
+C:\Users\leo_1\source\repos\IntComputingConsoleApp\IntComputingConsoleApp\bin\Debug\netcoreapp3.1\IntComputingConsoleApp.pdb
+C:\Users\leo_1\source\repos\IntComputingConsoleApp\IntComputingConsoleApp\obj\Debug\netcoreapp3.1\IntComputingConsoleApp.csproj.AssemblyReference.cache
+C:\Users\leo_1\source\repos\IntComputingConsoleApp\IntComputingConsoleApp\obj\Debug\netcoreapp3.1\IntComputingConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo_1\source\repos\IntComputingConsoleApp\IntComputingConsoleApp\obj\Debug\netcoreapp3.1\IntComputingConsoleApp.AssemblyInfoInputs.cache
+C:\Users\leo_1\source\repos\IntComputingConsoleApp\IntComputingConsoleApp\obj\Debug\netcoreapp3.1\IntComputingConsoleApp.AssemblyInfo.cs
+C:\Users\leo_1\source\repos\IntComputingConsoleApp\IntComputingConsoleApp\obj\Debug\netcoreapp3.1\IntComputingConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\leo_1\source\repos\IntComputingConsoleApp\IntComputingConsoleApp\obj\Debug\netcoreapp3.1\IntComputingConsoleApp.dll
+C:\Users\leo_1\source\repos\IntComputingConsoleApp\IntComputingConsoleApp\obj\Debug\netcoreapp3.1\IntComputingConsoleApp.pdb
+C:\Users\leo_1\source\repos\IntComputingConsoleApp\IntComputingConsoleApp\obj\Debug\netcoreapp3.1\IntComputingConsoleApp.genruntimeconfig.cache
